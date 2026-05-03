@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+}
+.q{
+    padding: 20px 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.w{
+    color: #64748B;
+    font-size: 15px;
+}
+.e{
+    display: flex;gap: 20px;
+}
+.r{
+    background-color: #0B1E3C;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+}
