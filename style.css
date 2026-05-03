@@ -74,3 +74,32 @@
     line-height: 100%;
     color: #5B5F61;
 }
+.d{
+    padding: 100px 80px;
+}
+.f{
+    color: #A97D59;
+    font-size: 12px;
+    font-weight: 700;
+}
+.g{
+    font-size: 36px;
+    font-weight: 400;
+    margin-bottom: 40px;
+}
+.h{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.j{
+    width: 65%;
+}
+.k{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.l{
+    width: 95%;
+}
