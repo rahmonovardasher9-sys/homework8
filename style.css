@@ -177,12 +177,45 @@
   gap: 10px;
   align-items: center;
 }
-.u2{
+.u2 {
   font-size: 16px;
   font-weight: 700;
 }
-.i2{
+.i2 {
   font-size: 14px;
   font-weight: 100;
   color: #5b5f61;
+}
+.o2 {
+  padding: 80px;
+  background-color: #f5f3f6;
+  display: flex;
+  justify-content: space-between;
+}
+.p2 {
+  color: #0b1e3c;
+  font-weight: bold;
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+.a2{
+  color: #64748b;
+  margin: 15px 0px;
+  font-size: 14px;
+  font-weight: 100;
+}
+.s2{
+  width: 25px;
+  display: inline-block;
+}
+.d2{
+  display: inline-block;
+}
+.f2{
+  color: #94A3B8;
+  font-size: 12px;
+
+}
+.g2{
+  margin-right: 20px;
 }
