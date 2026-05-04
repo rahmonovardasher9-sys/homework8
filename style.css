@@ -103,3 +103,36 @@
 .l{
     width: 95%;
 }
+.z{
+    padding: 100px 80px;
+}
+.x{
+    background-color: #0B1E3C;
+    padding: 40px;
+    border-radius: 20px;
+}
+.c{
+    color: #2DAAF7;
+    font-size: 10px;
+    font-weight: 100;
+}
+.v{
+    color: white;
+    font-size: 48px;
+  margin-top: 10px;
+}
+.b{
+    margin: 15px 0px;
+    line-height: 100%;
+    font-size: 14px;
+    font-weight: 100;
+    color: #ffffff;
+}
+.n{
+  background-color: #2DAAF7;
+  color: #0B1E3C;
+  padding:  13px 20px;
+  border: none;
+  font-weight: 500;
+  border-radius: 5px;
+}
